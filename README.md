@@ -8,8 +8,11 @@ Clone the repository:
 
 Clone the repository to your local machine.
 -- git clone https://github.com/pandeybishwas5/rhombus_ai.git
+
 -- cd rhombus_ai
+
 -- cd backend
+
 
 Insall Dependencied
 
@@ -26,10 +29,13 @@ Run the following command to apply the database migrations.
 Run the development server:
 
 Start the Django backend server.
+
 -- python manage.py runserver
+
 The backend API will be accessible at http://127.0.0.1:8000/.
 
 Frontend Setup (React)
+
 Navigate to the frontend directory:
 
 The frontend is inside a separate directory within the project. Navigate to the frontend directory.
@@ -49,6 +55,7 @@ Start the React development server:
 Once dependencies are installed, start the React development server.
 
 -- npm run dev
+
 
 
 The frontend will be accessible at http://localhost:5137/.
